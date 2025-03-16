@@ -54,6 +54,3 @@ MONGO_URI=your_mongodb_uri_here
 ## Issues
 - **Title updating is not working due to some Google Console API error**
 
-## License
-This project is licensed under the MIT License.
-
